@@ -1,0 +1,15 @@
+{
+    "title": "New Project",
+    "baseURL": "https:\/\/test.tvpagecdn.com\/project",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/project",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpagecdn.com"
+    }
+}
