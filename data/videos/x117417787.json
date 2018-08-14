@@ -1,0 +1,83 @@
+{
+    "title": "Duplicatus Merandus",
+    "description": "Materol",
+    "referenceId": "12688270",
+    "date_created": "1505169007",
+    "date_modified": "1519841153",
+    "tags": "jenna",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": "baby",
+    "homepage_gallery": "no",
+    "living": "wellness",
+    "user_id": "0",
+    "id": "117417787",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "duplicatus-merandus",
+    "category": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "308",
+    "settings": "",
+    "asset": {
+        "videoMeta": {
+            "duration": "308",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "308",
+        "prettyDuration": "00:05:08",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758991\/canvas\/1920\/1080\/118458907-1519841150.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758991\/117417787\/9e3fb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758991\/117417787\/9e3fb\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758991\/117417787\/cc\/vtt\/en_1519759977.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117417787\/9e3fb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117417787\/9e3fb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117417787\/9e3fb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "Merrau",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
